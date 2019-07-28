@@ -1,0 +1,51 @@
+Ouse
+
+(cm)         Waist
+ae
+5                   72
+M                   74
+i                   76
+
+＊호엉덩이둘레
+Hip
+ae
+
+86
+88
+
+90
+
+.허벅지단면
+Thigh Width
+ABE
+26
+27
+
+28
+
+'@밑위길이
+Rise
+ae
+
+26
+27
+
+28
+
+$밀단길이
+Hem Width
+Fis
+
+19
+19.5
+
+20
+
+Ose
+Total Length
+Be
+
+87
+88
+
+88
