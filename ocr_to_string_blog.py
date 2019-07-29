@@ -4,6 +4,7 @@ import configparser
 import os
 import re
 
+
 #Config Parser 초기화
 config = configparser.ConfigParser()
 #Config File 읽기
